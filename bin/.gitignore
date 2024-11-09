@@ -84,5 +84,3 @@ build/
 
 #Batch File
 *.bat
-
-*.DS_Store

@@ -1,2 +1,1 @@
-# java-api-base-template
-Java API Base Template
+# API base Template
